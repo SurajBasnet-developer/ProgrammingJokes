@@ -5,7 +5,7 @@ const Fun = () => {
 
   useEffect(() => {
     axios
-      .get("https://v2.jokeapi.dev/joke/Programming")
+      .get("your api")
       .then((Response) => {
         if (Response.data.type === "twopart") {
           setJoke(`${Response.data.setup} ${Response.data.delivery} `);
@@ -20,7 +20,7 @@ const Fun = () => {
 
   const HandleNewJoke = () => {
     axios
-      .get("https://v2.jokeapi.dev/joke/Programming")
+      .get("your api")
       .then((Response) => {
         if (Response.data.type === "twopart") {
           setJoke(`${Response.data.setup} ${Response.data.delivery} `);
