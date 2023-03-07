@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProgrammingJokes/static/css/main.d1bb40d6.css",
+    "main.js": "/ProgrammingJokes/static/js/main.d01aee5c.js",
+    "index.html": "/ProgrammingJokes/index.html",
+    "main.d1bb40d6.css.map": "/ProgrammingJokes/static/css/main.d1bb40d6.css.map",
+    "main.d01aee5c.js.map": "/ProgrammingJokes/static/js/main.d01aee5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1bb40d6.css",
+    "static/js/main.d01aee5c.js"
+  ]
+}
