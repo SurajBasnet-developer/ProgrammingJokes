@@ -10,6 +10,6 @@
 
 -[Live Demo](https://surajbasnet-developer.github.io/ProgrammingJokes)
 
-# SHow your support
+# Show your support
 
 Give a ⭐ if you Like this project
